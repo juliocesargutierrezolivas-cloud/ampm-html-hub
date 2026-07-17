@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-17T20:55:24.413625+00:00",
+  "latest": "2026-07",
+  "periods": [
+    {
+      "id": "2026-01",
+      "label": "Enero 2026",
+      "files": {
+        "master": "periodos/2026-01/master.xlsx",
+        "maintenance": "periodos/2026-01/maintenance.xlsx",
+        "freight": "periodos/2026-01/freight.xlsx",
+        "supplyTravel": "periodos/2026-01/supply_travel.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "e030ea9e8ec9375d",
+        "freight": "3ec5d6ca630cbe45",
+        "supplyTravel": "947a738721addfb7"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 384313,
+        "freight": 5315541,
+        "supplyTravel": 8167097
+      },
+      "complete": true,
+      "hasEnergy": false,
+      "signature": "3ec5d6ca630cbe45-e030ea9e8ec9375d-8015ec9bc44d87e8-947a738721addfb7"
+    },
+    {
+      "id": "2026-02",
+      "label": "Febrero 2026",
+      "files": {
+        "master": "periodos/2026-02/master.xlsx",
+        "maintenance": "periodos/2026-02/maintenance.xlsx",
+        "freight": "periodos/2026-02/freight.xlsx",
+        "supplyTravel": "periodos/2026-02/supply_travel.xlsx",
+        "energy": "periodos/2026-02/energy.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "e99b9860ac5b7a4c",
+        "freight": "278d77807d3e2fae",
+        "supplyTravel": "b38bd7517c9c867e",
+        "energy": "7a39968ba0261bf8"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 386149,
+        "freight": 1265272,
+        "supplyTravel": 4170586,
+        "energy": 104535
+      },
+      "complete": true,
+      "hasEnergy": true,
+      "signature": "7a39968ba0261bf8-278d77807d3e2fae-e99b9860ac5b7a4c-8015ec9bc44d87e8-b38bd7517c9c867e"
+    },
+    {
+      "id": "2026-03",
+      "label": "Marzo 2026",
+      "files": {
+        "master": "periodos/2026-03/master.xlsx",
+        "maintenance": "periodos/2026-03/maintenance.xlsx",
+        "freight": "periodos/2026-03/freight.xlsx",
+        "supplyTravel": "periodos/2026-03/supply_travel.xlsx",
+        "energy": "periodos/2026-03/energy.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "17d2d4100e4c0758",
+        "freight": "e111dcecfcc751c2",
+        "supplyTravel": "b73f776b8d4ff9e6",
+        "energy": "8de26b935e7fa645"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 413859,
+        "freight": 1318432,
+        "supplyTravel": 4186605,
+        "energy": 110221
+      },
+      "complete": true,
+      "hasEnergy": true,
+      "signature": "8de26b935e7fa645-e111dcecfcc751c2-17d2d4100e4c0758-8015ec9bc44d87e8-b73f776b8d4ff9e6"
+    },
+    {
+      "id": "2026-04",
+      "label": "Abril 2026",
+      "files": {
+        "master": "periodos/2026-04/master.xlsx",
+        "maintenance": "periodos/2026-04/maintenance.xlsx",
+        "freight": "periodos/2026-04/freight.xlsx",
+        "supplyTravel": "periodos/2026-04/supply_travel.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "89d8507f2594fe01",
+        "freight": "a6ffa47988e1c11b",
+        "supplyTravel": "43ce0d19e64bef01"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 397093,
+        "freight": 1264474,
+        "supplyTravel": 4237294
+      },
+      "complete": true,
+      "hasEnergy": false,
+      "signature": "a6ffa47988e1c11b-89d8507f2594fe01-8015ec9bc44d87e8-43ce0d19e64bef01"
+    },
+    {
+      "id": "2026-05",
+      "label": "Mayo 2026",
+      "files": {
+        "master": "periodos/2026-05/master.xlsx",
+        "maintenance": "periodos/2026-05/maintenance.xlsx",
+        "freight": "periodos/2026-05/freight.xlsx",
+        "supplyTravel": "periodos/2026-05/supply_travel.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "2e942e7a60cffd4c",
+        "freight": "8fa4ce51ef1d0a74",
+        "supplyTravel": "4aebedeb48a43a96"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 380157,
+        "freight": 1429026,
+        "supplyTravel": 4627983
+      },
+      "complete": true,
+      "hasEnergy": false,
+      "signature": "8fa4ce51ef1d0a74-2e942e7a60cffd4c-8015ec9bc44d87e8-4aebedeb48a43a96"
+    },
+    {
+      "id": "2026-06",
+      "label": "Junio 2026",
+      "files": {
+        "master": "periodos/2026-06/master.xlsx",
+        "maintenance": "periodos/2026-06/maintenance.xlsx",
+        "freight": "periodos/2026-06/freight.xlsx",
+        "supplyTravel": "periodos/2026-06/supply_travel.xlsx",
+        "energy": "periodos/2026-06/energy.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "147aad44e52da372",
+        "freight": "129879124fd5b191",
+        "supplyTravel": "227c032f4a3f3c65",
+        "energy": "9dccd6658df10dfb"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 449904,
+        "freight": 1119121,
+        "supplyTravel": 4678497,
+        "energy": 137967
+      },
+      "complete": true,
+      "hasEnergy": true,
+      "signature": "9dccd6658df10dfb-129879124fd5b191-147aad44e52da372-8015ec9bc44d87e8-227c032f4a3f3c65"
+    },
+    {
+      "id": "2026-07",
+      "label": "Julio 2026",
+      "files": {
+        "master": "periodos/2026-07/master.xlsx",
+        "maintenance": "periodos/2026-07/maintenance.xlsx",
+        "freight": "periodos/2026-07/freight.xlsx",
+        "supplyTravel": "periodos/2026-07/supply_travel.xlsx",
+        "energy": "periodos/2026-07/energy.xlsx"
+      },
+      "hashes": {
+        "master": "8015ec9bc44d87e8",
+        "maintenance": "044f49d90dd9d2be",
+        "freight": "bfd546183911f25d",
+        "supplyTravel": "411fad5040d0f52e",
+        "energy": "9dccd6658df10dfb"
+      },
+      "sizes": {
+        "master": 20113,
+        "maintenance": 388378,
+        "freight": 810737,
+        "supplyTravel": 3709762,
+        "energy": 137967
+      },
+      "complete": true,
+      "hasEnergy": true,
+      "signature": "9dccd6658df10dfb-bfd546183911f25d-044f49d90dd9d2be-8015ec9bc44d87e8-411fad5040d0f52e"
+    }
+  ]
+}

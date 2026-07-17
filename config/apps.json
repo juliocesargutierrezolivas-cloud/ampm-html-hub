@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gastos",
+    "name": "Control Ejecutivo de Gastos",
+    "description": "Mantenimiento, fletes, suministro, viáticos y energía con histórico mensual.",
+    "category": "Finanzas operativas",
+    "icon": "💰",
+    "path": "./apps/gastos/",
+    "status": "Disponible",
+    "dataManifest": "./data/gastos/manifest.json"
+  }
+]

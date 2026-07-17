@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Centro público de herramientas operativas AMPM.">
+  <title>AMPM Operations Hub</title>
+  <link rel="stylesheet" href="./assets/css/portal.css">
+</head>
+<body>
+  <header class="header"><div class="header-inner"><img class="logo" src="./assets/img/logo-ampm.webp" alt="AMPM"><div><h1>Centro de Herramientas Operativas</h1><p>Aplicaciones HTML con información publicada y actualizada desde GitHub</p></div></div></header>
+  <main class="main">
+    <section class="hero"><div class="intro card"><h2>AMPM Operations Hub</h2><p>Un solo enlace para consultar las herramientas operativas. Cada aplicación lee sus archivos publicados desde el repositorio y conserva el mismo vínculo cuando la información cambia.</p></div><div class="status-box card"><div class="status-label">Último periodo de gastos</div><div class="status-value" id="portalStatus">Consultando…</div><div class="status-meta" id="portalMeta">Validando publicación</div></div></section>
+    <div class="toolbar"><input class="search" id="appSearch" placeholder="Buscar herramienta, módulo o categoría…"></div>
+    <section class="apps" id="appGrid"><div class="empty card">Cargando herramientas…</div></section>
+    <div class="foot">Elaborado por Julio César Gutiérrez Olivas</div>
+  </main>
+  <script src="./assets/js/portal.js"></script>
+</body>
+</html>
